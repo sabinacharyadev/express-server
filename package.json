@@ -1,0 +1,8 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/sabinacharyadev/express-server.git",
+  "author": "sabinbabu <sabinacharya444@gmail.com>",
+  "license": "MIT"
+}
