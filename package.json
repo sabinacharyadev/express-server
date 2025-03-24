@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "main": "server.js",
   "repository": "https://github.com/sabinacharyadev/express-server.git",
-  "author": "sabinbabu <sabinacharya444@gmail.com>",
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
